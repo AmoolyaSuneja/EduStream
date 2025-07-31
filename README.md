@@ -29,6 +29,7 @@ Run
 Open http://localhost:8080
 
 🛠 Tech Stack :
+
 Frontend: React 18, TypeScript, Vite
 
 Styling: Tailwind CSS, Shadcn/UI
