@@ -1,77 +1,42 @@
-<<<<<<< HEAD
-# Welcome to your Lovable project
+EduStream - Interactive Learning Platform
+<div align="center">
+!React
+!TypeScript
+A modern learning management system with real-time progress tracking.
+</div>
 
-## Project info
+✨ Features
+🎥 Video Lessons: Embedded YouTube tutorials
+📊 Real-Time Analytics: Live progress tracking
+🧠 Interactive Quizzes: Immediate feedback
+User Management: Individual accounts
+📱 Responsive Design: Works on all devices
 
-**URL**: https://lovable.dev/projects/449cae87-0381-4e94-9329-03bb6796a78e
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/449cae87-0381-4e94-9329-03bb6796a78e) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+🚀 Quick Start
+git clone https://github.com/yourusername/edustream.git
+cd edustream
+npm install
 npm run dev
-```
+Apply
+Run
+Open http://localhost:8080
 
-**Edit a file directly in GitHub**
+🛠 Tech Stack
+Frontend: React 18, TypeScript, Vite
+Styling: Tailwind CSS, Shadcn/UI
+Charts: Recharts
+State: React Context API
+Storage: LocalStorage
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+�� Demo
+3 Sample Courses: React, JavaScript, Web Development
+Interactive Quizzes: Multiple-choice with explanations
+Progress Analytics: Real-time charts
+User Authentication: Demo login system
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/449cae87-0381-4e94-9329-03bb6796a78e) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-=======
-# EduStream
->>>>>>> 941f20468f7c26e3753c8752d06efb147497f9ee
+🤝 Contributing
+Fork the repository
+Create feature branch
+Commit changes
+Push to branch
+Open Pull Request
