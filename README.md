@@ -1,18 +1,13 @@
 EduStream - Interactive Learning Platform
-<div align="center">
-!React
-!TypeScript
-A modern learning management system with real-time progress tracking.
-</div>
 
-✨ Features
+✨ Features :
 🎥 Video Lessons: Embedded YouTube tutorials
 📊 Real-Time Analytics: Live progress tracking
 🧠 Interactive Quizzes: Immediate feedback
 User Management: Individual accounts
 📱 Responsive Design: Works on all devices
 
-🚀 Quick Start
+🚀 Quick Start :
 git clone https://github.com/yourusername/edustream.git
 cd edustream
 npm install
@@ -21,20 +16,20 @@ Apply
 Run
 Open http://localhost:8080
 
-🛠 Tech Stack
+🛠 Tech Stack :
 Frontend: React 18, TypeScript, Vite
 Styling: Tailwind CSS, Shadcn/UI
 Charts: Recharts
 State: React Context API
 Storage: LocalStorage
 
-�� Demo
+�� Demo :
 3 Sample Courses: React, JavaScript, Web Development
 Interactive Quizzes: Multiple-choice with explanations
 Progress Analytics: Real-time charts
 User Authentication: Demo login system
 
-🤝 Contributing
+🤝 Contributing :
 Fork the repository
 Create feature branch
 Commit changes
