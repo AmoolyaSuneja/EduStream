@@ -1,62 +1,71 @@
-EduStream - Interactive Learning Platform
+# EduStream - Interactive Learning Platform
 
-✨ Features :
+<div align="center">
 
-🎥 Video Lessons: Embedded YouTube tutorials
+![React](https://img.shields.io/badge/React-18.0.0-blue?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue?style=flat-square&logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-5.0.0-purple?style=flat-square&logo=vite)
 
-📊 Real-Time Analytics: Live progress tracking
+*A modern learning management system with real-time progress tracking.*
 
-🧠 Interactive Quizzes: Immediate feedback
+</div>
 
-User Management: Individual accounts
+---
 
-📱 Responsive Design: Works on all devices
+## ✨ Features
 
-🚀 Quick Start :
+- **🎥 Video Lessons**: Embedded YouTube tutorials
+- **📊 Real-Time Analytics**: Live progress tracking
+- **🧠 Interactive Quizzes**: Immediate feedback
+- ** User Management**: Individual accounts
+- **📱 Responsive Design**: Works on all devices
 
+---
+
+## 🚀 Quick Start
+
+```bash
 git clone https://github.com/yourusername/edustream.git
-
 cd edustream
-
 npm install
-
 npm run dev
-
-Apply
-
-Run
+```
 
 Open http://localhost:8080
 
-🛠 Tech Stack :
+---
 
-Frontend: React 18, TypeScript, Vite
+## 🛠 Tech Stack
 
-Styling: Tailwind CSS, Shadcn/UI
+- **Frontend**: React 18, TypeScript, Vite
+- **Styling**: Tailwind CSS, Shadcn/UI
+- **Charts**: Recharts
+- **State**: React Context API
+- **Storage**: LocalStorage
 
-Charts: Recharts
+---
 
-State: React Context API
+## Demo
 
-Storage: LocalStorage
+- **3 Sample Courses**: React, JavaScript, Web Development
+- **Interactive Quizzes**: Multiple-choice with explanations
+- **Progress Analytics**: Real-time charts
+- **User Authentication**: Demo login system
 
-�� Demo :
-3 Sample Courses: React, JavaScript, Web Development
+---
 
-Interactive Quizzes: Multiple-choice with explanations
+## 🤝 Contributing
 
-Progress Analytics: Real-time charts
+1. Fork the repository
+2. Create feature branch
+3. Commit changes
+4. Push to branch
+5. Open Pull Request
 
-User Authentication: Demo login system
+---
 
-🤝 Contributing :
+<div align="center">
 
-Fork the repository
+**Perfect for educational institutions and training centers!** 🎉
 
-Create feature branch
-
-Commit changes
-
-Push to branch
-
-Open Pull Request
+</div>
