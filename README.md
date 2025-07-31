@@ -50,6 +50,7 @@ Progress Analytics: Real-time charts
 User Authentication: Demo login system
 
 🤝 Contributing :
+
 Fork the repository
 
 Create feature branch
