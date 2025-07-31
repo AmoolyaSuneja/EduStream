@@ -1,10 +1,15 @@
 EduStream - Interactive Learning Platform
 
 ✨ Features :
+
 🎥 Video Lessons: Embedded YouTube tutorials
+
 📊 Real-Time Analytics: Live progress tracking
+
 🧠 Interactive Quizzes: Immediate feedback
+
 User Management: Individual accounts
+
 📱 Responsive Design: Works on all devices
 
 🚀 Quick Start :
